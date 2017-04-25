@@ -1,6 +1,6 @@
-# rxsplay
-自己学习rxjava的代码,rxjava1
-包含十几个操作符的使用
-代码都都写有注释
-![](http://i.imgur.com/EjKSzFc.png)
-![](http://i.imgur.com/qxpkpSu.png)
+# rxsplay 
+自己学习rxjava的代码,使用rxjava1 <br>
+包含十几个操作符的使用 <br>
+代码都写有注释 <br>
+![](http://i.imgur.com/EjKSzFc.png) <br>
+![](http://i.imgur.com/qxpkpSu.png) 
